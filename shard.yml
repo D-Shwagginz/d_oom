@@ -1,0 +1,13 @@
+name: d_oom
+version: 0.1.0
+
+authors:
+  - D. Shwagginz <dshwagbusiness@gmail.com>
+
+targets:
+  d_oom:
+    main: src/d_oom.cr
+
+crystal: 1.9.2
+
+license: MIT
