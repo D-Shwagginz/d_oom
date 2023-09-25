@@ -1,0 +1,14 @@
+version: 2.0
+shards:
+  ode-cr:
+    git: https://github.com/d-shwagginz/ode-cr.git
+    version: 0.1.0+git.commit.ba9718d05b810771f6771f53cc4696b9f25a9eb4
+
+  raylib-cr:
+    git: https://github.com/sol-vin/raylib-cr.git
+    version: 4.6+git.commit.0f62aabf3a9821cfd4f8e47484d1ee3038a724cb
+
+  wa-cr:
+    git: https://github.com/d-shwagginz/wa-cr.git
+    version: 1.0.0+git.commit.88f4be8a7cf5a9db341ed8407cd23712fe6a835c
+

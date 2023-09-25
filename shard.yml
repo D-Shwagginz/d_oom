@@ -8,6 +8,14 @@ targets:
   d_oom:
     main: src/d_oom.cr
 
+dependencies:
+  raylib-cr:
+    github: sol-vin/raylib-cr
+  wa-cr:
+    github: D-Shwagginz/wa-cr
+  ode-cr:
+    github: D-Shwagginz/ode-cr
+
 crystal: 1.9.2
 
 license: MIT
